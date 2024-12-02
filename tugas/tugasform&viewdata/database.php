@@ -31,9 +31,9 @@
                     placeholder="Enter email" required>
             </div>
             <div class="mb-3">
-    <label for="formFile" class="form-label">Default file input example</label>
-    <input class="form-control" type="file" id="formFile">
-    </div>
+            <label for="formFile" class="form-label">Default file input example</label>
+            <input class="form-control" type="file" id="formFile">
+            </div>
             <button type="submit" class="btn btn-primary" name="submit_customer">Submit Customer</button>
         </form>
 
